@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Roku Development Projects**
 
-- 💬 Ask me about **Roku Development**
+- 💬 Ask me about **Roku Development Basics**
 
 - 📫 How to reach me **pgshanjayvel@gmail.com**
 
